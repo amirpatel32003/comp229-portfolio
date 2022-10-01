@@ -8,12 +8,12 @@ router.get('/', function(req, res, next) {
 
 /* GET home page. */
 router.get('/home', function(req, res, next) {
-  res.render('index', { title: 'Home'});
+  res.render('index', { title: 'Home', page: 'home'});
 });
 
 /* GET About Us page. */
 router.get('/about', function(req, res, next) {
-  res.render('index', { title: 'About'});
+  res.render('index', { title: 'About', page: 'about'});
 });
 
 /* GET Products page. */
