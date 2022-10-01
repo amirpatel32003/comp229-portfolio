@@ -26,12 +26,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tsiliopoulos/COMP229-F2020-Week3.git"
+    "url": "git+https://github.com/Jdp012/COMP229-Portfolio.git"
   },
-  "author": "Tom Tsiliopoulos",
+  "author": "Jay Katariya",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tsiliopoulos/COMP229-F2020-Week3/issues"
+    "url": "https://github.com/Jdp012/COMP229-Portfolio.git"
   },
-  "homepage": "https://github.com/tsiliopoulos/COMP229-F2020-Week3#readme"
+  "homepage": "https://comp229-portfolio22.herokuapp.com/"
 }

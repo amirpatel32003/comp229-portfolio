@@ -14,7 +14,7 @@ let app = express();
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs'); // express  -e
 
-app.set('port', 80);
+app.set('port', '80');
 
 app.use(logger('dev'));
 app.use(express.json());
