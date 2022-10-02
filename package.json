@@ -1,5 +1,5 @@
 {
-  "name": "comp229-f2020-week3",
+  "name": "comp229-f2022-week3",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -22,16 +22,16 @@
     "nodemon": "^2.0.20",
     "popper.js": "^1.16.1"
   },
-  "description": "demo app for COMP229 Week 3",
+  "description": "Portfolio",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jdp012/COMP229-Portfolio.git"
+    "url": "git+https://github.com/amirpatel32003/COMP-229-Portfolio.git"
   },
-  "author": "Jay Katariya",
+  "author": "Amir Patel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Jdp012/COMP229-Portfolio.git"
+    "url": "https://github.com/amirpatel32003/COMP-229-Portfolio.git"
   },
-  "homepage": "https://comp229-portfolio22.herokuapp.com/"
+  "homepage": "https://github.com/amirpatel32003/"
 }
